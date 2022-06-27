@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Le MyDefender est notre 3ème projet graphique. Le but du projet est de créer un jeu type Tower Defense, le but du jeu est de defender un point stratégique en construisant des défenses tout autour d'un chemin. Des vagues d'ennemis vont alors passer par ce chemin afin d'essayer de s'emparer de ce point stratégique.
+Le MyDefender est notre 3ème projet graphique. Le but du projet est de créer un jeu type Tower Defense, le but du jeu est de defendre un point stratégique en construisant des défenses tout autour d'un chemin. Des vagues d'ennemis vont alors passer par ce chemin afin d'essayer de s'emparer de ce point stratégique.
 
 
 
